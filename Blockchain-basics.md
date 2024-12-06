@@ -1,4 +1,26 @@
 
+## Table of Contents
+- [What is Blockchain?](#what-is-blockchain)
+- [Why Smart Contracts?](#why-smart-contracts)
+- [Features of Blockchain](#features-of-blockchain)
+- [Gas](#gas)
+- [How does a Blockchain work?](#how-does-a-blockchain-work)
+- [Public and Private Keys](#public-and-private-keys)
+- [More about Gas](#more-about-gas)
+- [PoW and PoS](#pow-and-pos)
+- [Blockchain Overview](#blockchain-overview)
+- [L1, L2, and Rollups](#l1-l2-and-rollups)
+- [More on L1, L2, and Rollups](#more-on-l1-l2-and-rollups)
+- [How does Optimistic Rollups work](#how-does-optimistic-rollups-work)
+- [How does ZK Rollups work](#how-does-zk-rollups-work)
+- [If ZK Rollups, then why Optimistic Rollups?](#if-zk-rollups-then-why-optimistic-rollups)
+- [Operators](#operators)
+- [Sequencers](#sequencers)
+- [Operators vs Sequencers](#operators-vs-sequencers)
+- [Composability](#composability)
+- [Revert](#revert)
+- [ChainLink](#chainlink)
+
 ### Bitcoin and Blockchain
 
 You might be familiar with `Bitcoin`, which is one of the first protocols to utilize the revolutionary blockchain technology. The Bitcoin Whitepaper, authored by the pseudonymous `Satoshi Nakamoto`, described how Bitcoin could facilitate peer-to-peer transactions within a decentralized network using cryptography. This gave rise to censorship-resistant finance and presented `Bitcoin` as a superior digital store of value, often referred to as *digital gold*. There is a fixed amount of Bitcoin, similar to the scarcity of gold. You can learn more about this in the [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf).
