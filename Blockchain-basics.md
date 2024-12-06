@@ -264,7 +264,7 @@ In the application, whatever data you enter into the data section, undergoes pro
 
 Now that we've grasped the concept of hashing and fixed-length string, let's inspect the structure of a blockchain. A collection of "blocks."
 
-!https://updraft.cyfrin.io/blockchain-basics/07-how-do-blockchains-work/how-do-blockchains-work2.png
+!(https://updraft.cyfrin.io/blockchain-basics/07-how-do-blockchains-work/how-do-blockchains-work2.png)
 
 A block takes the same data input, but instead of a singular data field, a block is divided into 'block', 'nonce', and 'data.' All three are then run through the hash algorithm, producing the hash for that block. As a result, even a minor change in the data leads to an entirely different hash, hence, invalidating the block.
 
