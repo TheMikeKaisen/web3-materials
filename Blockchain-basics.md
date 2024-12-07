@@ -1,6 +1,6 @@
 
 ## Table of Contents
-- [What is Blockchain?](#what-is-blockchain)
+- [What is Blockchain?](#bitcoin-and-blockchain)
 - [Why Smart Contracts?](#why-smart-contracts)
 - [Features of Blockchain](#features-of-blockchain)
 - [Gas](#gas)
